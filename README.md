@@ -2,8 +2,6 @@ Project UAS Mata Kuliah Algoritma Pemrograman menggunakan bahasa Javascript deng
 
 Cara run:
 
-Buka new terminal
-
-npm install
-
-npm run dev
+1. Buka new terminal
+2. npm install
+3. npm run dev
