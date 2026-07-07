@@ -104,38 +104,6 @@ npm run lint
    - Use the Reset button to start a new round
    - Use the Back button to return to the menu
 
-## 📁 Project Structure
-
-```
-tic-tac-toe/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── assets/
-│   ├── App.jsx          # Main game component
-│   ├── index.css        # Retro styling
-│   └── main.jsx         # App entry point
-├── App.jsx              # Game logic (root level)
-├── index.html
-├── package.json
-└── vite.config.js
-```
-
-## 🎨 Design Features
-
-- **Retro Color Scheme**
-  - Black background with dotted grid pattern
-  - Red (#B11919) and orange (#E58C1B) accents
-  - Yellow (#F2B632) text highlights
-
-- **Typography**
-  - "Press Start 2P" pixel font for authentic arcade feel
-
-- **Visual Feedback**
-  - Hover effects on buttons and squares
-  - Highlighted winning combinations
-  - Smooth transitions
-
 ## 🤖 AI Behavior
 
 The AI opponent uses a random move selection strategy:
